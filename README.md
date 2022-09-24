@@ -10,3 +10,4 @@ which is represented by `toX` and `toY`. Hopefully you can figure something out.
 [Task explanation](https://youtu.be/RJuV7gmMi0E)
 
 [Try to avoid these mistakes while solving task](https://mate-academy.github.io/jv-program-common-mistakes/java-core/oop/robot/robot-route)
+![image](https://user-images.githubusercontent.com/87024861/192110604-17711901-8a20-4d70-a11d-867f177d0562.png)
